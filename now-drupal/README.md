@@ -1,0 +1,1 @@
+Fork of git clone https://github.com/wadmiraal/docker-drupal.git and I removed most of things from there, just kept php and apache. This is build to deploy drupal on now.sh as they don't support exposing 2 ports from one container, so use cloud service for database.
